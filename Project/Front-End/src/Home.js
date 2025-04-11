@@ -1,8 +1,7 @@
 import { Component } from "react";
 import Navbar from "./Navbar";
 import Forum from "./Forum";
-import ClassForum from "./ClassForum";
-import { Button } from "bootstrap";
+
 import Header from "./Header";
 
 class Home extends Component {

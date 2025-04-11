@@ -7522,11 +7522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PREDATOR\\Documents\\work2\\my_Water\\my_Water\\my_Water.csproj",
+      "projectUniqueName": "C:\\Users\\PREDATOR\\Desktop\\E-commerce\\Project\\my_Water\\my_Water\\my_Water.csproj",
       "projectName": "my_Water",
-      "projectPath": "C:\\Users\\PREDATOR\\Documents\\work2\\my_Water\\my_Water\\my_Water.csproj",
+      "projectPath": "C:\\Users\\PREDATOR\\Desktop\\E-commerce\\Project\\my_Water\\my_Water\\my_Water.csproj",
       "packagesPath": "C:\\Users\\PREDATOR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PREDATOR\\Documents\\work2\\my_Water\\my_Water\\obj\\",
+      "outputPath": "C:\\Users\\PREDATOR\\Desktop\\E-commerce\\Project\\my_Water\\my_Water\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

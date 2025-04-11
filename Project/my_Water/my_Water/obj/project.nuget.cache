@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wsiRA3lHsL4=",
+  "dgSpecHash": "wXTkfYBxUqc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PREDATOR\\Documents\\work2\\my_Water\\my_Water\\my_Water.csproj",
+  "projectFilePath": "C:\\Users\\PREDATOR\\Desktop\\E-commerce\\Project\\my_Water\\my_Water\\my_Water.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PREDATOR\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\PREDATOR\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
