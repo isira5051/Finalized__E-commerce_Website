@@ -1,0 +1,22 @@
+.transparent-textbox {
+    background: rgba(255, 255, 255, 0.2); /* Transparent background */
+    backdrop-filter: blur(6px);           /* Frosted glass effect */
+    padding: 1rem;
+    font-style: italic;
+    border-radius: 12px;
+    color: #110f0f;
+    font-size: 1.2rem;
+    font-weight: 500;
+    width: 29%;
+    height: 400px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    position: absolute;
+    z-index: 10;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: 20px;
+    pointer-events: none;  /* Prevent the textbox from blocking mouse events */
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+  
