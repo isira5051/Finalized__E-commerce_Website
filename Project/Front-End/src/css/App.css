@@ -1,0 +1,48 @@
+
+.navbar-cell
+{
+  padding: 5px;
+  text-align: center;
+  border-style: groove;
+  border-width: 6px;
+}
+
+.login-card
+{
+  border-style: groove;
+  border-radius: 5px;
+  border-width: 3px;
+  padding: 10px;
+  opacity: inherit;
+  transition: ease-in;
+}
+
+.login-card :hover
+{
+  border-style: hidden;
+  
+}
+
+.login-lable
+{
+  color: ivory;
+
+}
+.login-lable :hover
+{
+  color: rgb(242, 242, 172);
+
+}
+
+.login-card-element
+{
+  color: azure;
+}
+
+.home-background-image {
+  background-image: url("https://wallpapers.com/images/high/cool-color-background-zq2wdbtw2vr7pkzz.webp"); 
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+

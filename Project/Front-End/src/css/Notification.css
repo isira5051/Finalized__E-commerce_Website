@@ -1,0 +1,35 @@
+.notification-header
+{
+    background-color: darkgray;
+}
+
+.modal-header
+{
+    background-color: #7ba2f0;
+    grid-row: auto;
+    border-style: groove;
+    border-color: #a0aabf;
+    border-width: 4px;
+    padding: 15px;
+}
+
+.modal-body
+{
+    border-style: groove;
+    border-color: #bcc7dc;
+    border-radius: 8px;
+}
+
+.paid-notice-box
+{
+    font-size: large;
+    box-shadow: #7ba2f0;
+    border-style: solid;
+    border-color: #7ba2f0;
+    border-style: dotted;
+    border-radius: 3px;
+    margin-right: 250px;
+    margin-left: 50px;
+    background-color: antiquewhite;
+    padding: 8px;
+}

@@ -1,0 +1,60 @@
+.container 
+{
+    background-image: url("https://i.pinimg.com/736x/02/84/11/028411eecca9d9b0cdd54453a6e9ca4f.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+
+.message-accept-button
+{
+    padding: 4px;
+    background-color: rgb(29, 194, 212);
+}
+
+
+.pay-button
+{
+    padding: 8px;
+    margin-left: 40px;
+}
+
+.profile-logo
+{
+  
+    border-radius: 10px;
+    border : 5px dotted;
+    border-color: rgb(12, 12, 12);
+    padding: 6px;
+    
+}
+
+.card-in-background
+{
+    align-items: center;
+    background-image: url("https://img.freepik.com/free-vector/abstract-colorful-watercolor-texture_1035-18885.jpg");
+}
+
+.card-img-top
+{
+    border: 3px dotted;
+    border-color: blue;
+    height: 300px ;
+}
+
+.messages-button
+{
+    padding: 8px;
+    border: 8px groove;
+    border-color: rgb(209, 81, 17);
+
+}
+
+.messages-button-reset
+{
+    padding: 8px;
+    border: 8px groove;
+    border-color: rgb(19, 19, 18);
+
+}
